@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="solution code">
+      <UniqueIdentifier>{03728994-524e-47f5-9b11-507edeb7a4de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{c4d892cd-5104-4fa8-8b4c-c18c61e1d36d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 2">
+      <UniqueIdentifier>{7cb4b4a0-6b23-469d-bc67-544455d0f977}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 3">
+      <UniqueIdentifier>{e7215ded-2af2-4de5-a97a-fabf22b7190d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 4">
+      <UniqueIdentifier>{9f03ac90-da39-4b5e-b976-26b88dafa478}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 5">
+      <UniqueIdentifier>{9ebc7600-722c-4387-8d64-7e7e586202f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 6">
+      <UniqueIdentifier>{457b0ba5-10b8-47ae-a029-de9f87190b9e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="디버그용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2recursion_14.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2recursion_15.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2recursion_18.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2recursion_18b.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="2recursion_19.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="--2recursion_19b.c">
+      <Filter>solution code\Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="3array,structure,pointer_26.c">
+      <Filter>solution code\Chapter 3</Filter>
+    </ClCompile>
+    <ClCompile Include="3array,structure,pointer_27.c">
+      <Filter>solution code\Chapter 3</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_12.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_14.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_15.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_16.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="--4list_17.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_18.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_21.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="--4list_22.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_23.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="4list_24.c">
+      <Filter>solution code\Chapter 4</Filter>
+    </ClCompile>
+    <ClCompile Include="5stack_19.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="5stack_20.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="--5stack_21.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="--5stack_22.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="5stack_check_matching.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="5stack_eval_postfix.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="5stack_infix to postfix.c">
+      <Filter>solution code\Chapter 5</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

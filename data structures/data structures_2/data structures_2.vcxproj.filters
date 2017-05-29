@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="solution code">
+      <UniqueIdentifier>{fe6a45cf-3ae9-4c72-83e6-0e2e4b8bd89c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 7">
+      <UniqueIdentifier>{2d5a1e3d-e030-4f64-976d-19d2ca371a43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 8">
+      <UniqueIdentifier>{36fda280-d7b1-45c7-8839-1580430b92aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 9">
+      <UniqueIdentifier>{9d88317b-991f-42bf-af72-84c5edc0afe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 10">
+      <UniqueIdentifier>{07d873fe-8daf-4f94-8c4f-e382505dcd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 11">
+      <UniqueIdentifier>{114b8275-5059-4536-a062-f136b43b9b9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="solution code\Chapter 12">
+      <UniqueIdentifier>{9ad8f171-bf2f-4b85-a224-d241ba0f5856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 7">
+      <UniqueIdentifier>{6a0c5307-f9f9-4c89-8272-ce869713a1b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 8">
+      <UniqueIdentifier>{caf36388-d2a9-46e4-99a9-05d522db7cb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 9">
+      <UniqueIdentifier>{e24df937-278a-44ff-947e-338b911518a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 10">
+      <UniqueIdentifier>{a6861ce1-872e-46c3-8a8e-3a94c8fdc52f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 11">
+      <UniqueIdentifier>{9f785a50-578d-4969-93eb-2bb2c7794551}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Chapter 12">
+      <UniqueIdentifier>{2b131285-c4dd-41d6-a5eb-60f269118836}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="프로그램9_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램10_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램10_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램10_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램10_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7장_트리.c">
+      <Filter>소스 파일\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="이진 탐색 트리를 이용한 영어 사전 프로그램.c">
+      <Filter>소스 파일\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="스레드 이진 트리.c">
+      <Filter>소스 파일\Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="8장_우선순위 큐.c">
+      <Filter>소스 파일\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="아이스크림 가게 시뮬레이션 프로그램.c">
+      <Filter>소스 파일\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="허프만 코드 프로그램.c">
+      <Filter>소스 파일\Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램 9_1.c">
+      <Filter>소스 파일\Chapter 9</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그램 9_3.c">
+      <Filter>소스 파일\Chapter 9</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
